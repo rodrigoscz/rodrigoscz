@@ -30,6 +30,7 @@ Eso es lo que construyo, y lo que documento acá en abierto.
 
 Herramientas abiertas en el cruce de **SEO técnico**, **lenguaje** y **AI**. Cada una prueba
 una rebanada de la tesis, y se puede usar y auditar en abierto.
+El nodo de la suite vive en **[lang-suite](https://github.com/rodrigoscz/lang-suite)**.
 
 - **[tropicaliza](https://github.com/rodrigoscz/tropicaliza)** · Lint de locale para el español:
   marca rioplatensismos, calcos y registros que no viajan entre mercados, con reescritura
