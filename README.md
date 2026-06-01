@@ -37,10 +37,10 @@ una rebanada de la tesis, y se puede usar y auditar en abierto.
 - **[lang-forge](https://github.com/rodrigoscz/lang-forge)** · AI SEO Lab: plataforma de
   investigación para validar hipótesis de SEO sobre AI Overviews con datos reales y
   visualizaciones publicables.
-- **tres-lenguas** · *(pronto)* Traduce un audit técnico a tres lenguajes: Técnico, CMO y CFO.
-  Los mismos hechos, tres idiomas según quién escucha.
-- **nav-sense** · *(pronto)* Arquitectura semántica: el gap entre cómo está armada una nav
-  y cómo la gente realmente busca.
+- **[tres-lenguas](https://github.com/rodrigoscz/tres-lenguas)** · Traduce un audit técnico a tres
+  lenguajes: Técnico, CMO y CFO. Los mismos hechos, tres idiomas según quién escucha.
+- **[nav-sense](https://github.com/rodrigoscz/nav-sense)** · Arquitectura semántica: el gap entre
+  cómo está armada una nav y cómo la gente realmente busca.
 
 ### Stack
 
