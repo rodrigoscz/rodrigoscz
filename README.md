@@ -39,6 +39,7 @@ Eso es lo que construyo, y lo que documento acá en abierto.
 ![Astro](https://img.shields.io/badge/Astro-2E2117?style=flat-square&logo=astro&logoColor=E7CDA6)
 ![FastAPI](https://img.shields.io/badge/FastAPI-2E2117?style=flat-square&logo=fastapi&logoColor=E7CDA6)
 ![SQLite](https://img.shields.io/badge/SQLite-2E2117?style=flat-square&logo=sqlite&logoColor=E7CDA6)
+![DataForSEO](https://img.shields.io/badge/DataForSEO-C46A2B?style=flat-square&logoColor=E7CDA6)
 
 ---
 
