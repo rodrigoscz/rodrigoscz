@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/nova-mark.png" width="170" alt="rodrigoscz" />
+<img src="assets/nova-mark-badge.png" width="170" alt="rodrigoscz" />
 
 # Rodrigo Sánchez 🧉🇦🇷
 
@@ -26,11 +26,21 @@ hacer que un mensaje sea entendido (y elegido) por quien lo lee, sea una persona
 
 Eso es lo que construyo, y lo que documento acá en abierto.
 
-### En construcción
+### La suite · todo es lenguaje
 
-- **[lang-forge](https://github.com/rodrigoscz/lang-forge)**: AI SEO Lab. Plataforma de
+Herramientas abiertas en el cruce de **SEO técnico**, **lenguaje** y **AI**. Cada una prueba
+una rebanada de la tesis, y se puede usar y auditar en abierto.
+
+- **[tropicaliza](https://github.com/rodrigoscz/tropicaliza)** · Lint de locale para el español:
+  marca rioplatensismos, calcos y registros que no viajan entre mercados, con reescritura
+  tropicalizada. Corre 100% en el navegador.
+- **[lang-forge](https://github.com/rodrigoscz/lang-forge)** · AI SEO Lab: plataforma de
   investigación para validar hipótesis de SEO sobre AI Overviews con datos reales y
-  visualizaciones publicables. Experimentos repetibles, hallazgos abiertos.
+  visualizaciones publicables.
+- **tres-lenguas** · *(pronto)* Traduce un audit técnico a tres lenguajes: Técnico, CMO y CFO.
+  Los mismos hechos, tres idiomas según quién escucha.
+- **nav-sense** · *(pronto)* Arquitectura semántica: el gap entre cómo está armada una nav
+  y cómo la gente realmente busca.
 
 ### Stack
 
